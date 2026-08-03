@@ -110,7 +110,7 @@ function Hero() {
             </a>
 
            <a
-  href="/resume.pdf"
+  href="/vishrutha.pdf"
   download
   className="
   px-8
